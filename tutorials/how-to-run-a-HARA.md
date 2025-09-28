@@ -1,0 +1,3 @@
+# How to run a HARA (hands-on)
+
+Step-by-step...

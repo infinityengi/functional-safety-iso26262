@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="780" height="180" fill="#ffffff" stroke="#000000"/>
+  <text x="24" y="40" font-size="18" font-family="Arial">V-model: Concept → System → HW/SW → Integration → Validation</text>
+  <line x1="100" y1="80" x2="700" y2="80" stroke="#333" stroke-width="2"/>
+</svg>
