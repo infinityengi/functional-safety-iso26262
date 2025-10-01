@@ -1,4 +1,4 @@
-# ISO26262 Playbook
+# Functional Safety ISO26262
 
 **Practical notes, tutorials and case studies for ISO 26262 functional safety.**
 
